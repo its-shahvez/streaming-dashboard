@@ -4,7 +4,7 @@
 A modern streaming service dashboard (Netflix Clone) built with Next.js 14, TypeScript, and Tailwind CSS.
 
 ## 🚀 Live Demo
-[Link to your Vercel App will go here]
+**[Click here to view Live App](https://streaming-dashboard-pied.vercel.app/)**
 
 ## ✨ Features
 - **Home Page:** Displays Trending, Top Rated, and Popular movies using TMDB API.
@@ -18,9 +18,3 @@ A modern streaming service dashboard (Netflix Clone) built with Next.js 14, Type
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **API:** The Movie Database (TMDB)
-
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/streamflix.git](https://github.com/your-username/streamflix.git)
